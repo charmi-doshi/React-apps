@@ -1,16 +1,15 @@
 import React from 'react'
 
-export const Product = () =>{
+export const Product =()=>{
 
-    return (
+    return(
         <div>
-            product page
+            product page!!!
             <ul>
-                <li>Samsung</li>
-                <li>Iphone</li>
-                <li>One+</li>
+                <li>iphone</li>
+                <li>samsung</li>
+                <li>one+</li>
             </ul>
         </div>
-
     )
 }
